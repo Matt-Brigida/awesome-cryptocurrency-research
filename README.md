@@ -18,3 +18,7 @@
 [Layer 2 Blockchain Scaling: a Survey](https://arxiv.org/abs/2107.10881)
 
 [A Survey of Layer-Two Blockchain Protocols](https://arxiv.org/pdf/2204.08032)
+
+[Layer 2 be or Layer not 2 be: Scaling on Uniswap v3](https://arxiv.org/abs/2403.09494)
+
+[Liquidity Fragmentation or Optimization? Analyzing Automated Market Makers Across Ethereum and Rollups](https://arxiv.org/abs/2410.10324)
