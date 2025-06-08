@@ -1,3 +1,4 @@
+This list focuses on finance/economics/accounting academic research on cryptocurrencies and crypto markets.  In other words this is a list of tokenomics type research targeting peer-reviewed journals.   See the Other lists below for links to whitepapers and other crypto research.
 
 # Cryptocurrency Pricing and Risk Premia
 
@@ -22,3 +23,9 @@
 [Layer 2 be or Layer not 2 be: Scaling on Uniswap v3](https://arxiv.org/abs/2403.09494)
 
 [Liquidity Fragmentation or Optimization? Analyzing Automated Market Makers Across Ethereum and Rollups](https://arxiv.org/abs/2410.10324)
+
+# Other lists (generally don't focus on research)
+
+[jpantunes/awesome-cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+
+[L4ventures/awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)
